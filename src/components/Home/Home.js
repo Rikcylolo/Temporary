@@ -21,8 +21,8 @@ function Home() {
               </h1>
 
               <h1 className="heading-name">
-                Kami Kelompok
-                <strong className="main-name"> Temporary Team</strong>
+                Saya Perwakilan dari <br></br>
+                <strong className="main-name"> Kelompok Temporary</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>

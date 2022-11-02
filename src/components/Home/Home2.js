@@ -16,37 +16,35 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              IZINKAN SAYA <span className="purple"> MEMPERKENALKAN </span> DIRI
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              Saya jatuh cinta dengan pemrograman dan setidaknya saya telah belajar sesuatu, <br></br> saya pikir ... 🤷‍♂️
               <br />
-              <br />I am fluent in classics like
+              <br />Saya mahasiswa semester 7 di Universitas Mikrosil dan mempelajari beberapa bahasa pemograman, yaitu 
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> C++, Javascript dan Python. </b>
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Bidang Minat saya sedang membangun baru &nbsp;
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
+                <b className="purple">Teknologi dan Produk WEB </b> dan juga
+                bidang yang terkait dengan{" "}
                 <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                  Deep Learning dan Natural Launguage Processing.
                 </b>
               </i>
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              Bila memungkinkan, saya juga menerapkan hasrat saya untuk mengembangkan produk dengan <b className="purple">Node.js</b> dan
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Javascript Library dan Frameworks
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; seperti
               <i>
                 <b className="purple"> React.js and Next.js</b>
               </i>
@@ -54,59 +52,12 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={myImg} className="img-fluid" alt="boy.jpg" />
             </Tilt>
           </Col>
         </Row>
         <Row>
-          <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
-            <p>
-              Feel free to <span className="purple">connect </span>with me
-            </p>
-            <ul className="home-about-social-links">
-              <li className="social-icons">
-                <a
-                  href="https://github.com/soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiFillGithub />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://twitter.com/Soumyajit4419"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://www.instagram.com/s.o.u.m.y.a_j.i.t/"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <AiFillInstagram />
-                </a>
-              </li>
-            </ul>
-          </Col>
+          
         </Row>
       </Container>
     </Container>
