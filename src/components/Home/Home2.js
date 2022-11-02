@@ -57,7 +57,54 @@ function Home2() {
           </Col>
         </Row>
         <Row>
-          
+          <Col md={12} className="home-about-social">
+            <h1>IKUTI SAYA DI</h1>
+            <p>
+              Jangan ragu untuk <span className="purple">tehubung </span>dengan saya
+            </p>
+            <ul className="home-about-social-links">
+              {/* <li className="social-icons">
+                <a
+                  href="https://github.com/soumyajit4419"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillGithub />
+                </a>
+              </li> */}
+              <li className="social-icons">
+                <a
+                  href="https://www.twitter.com/Lync09"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiOutlineTwitter />
+                </a>
+              </li>
+              {/* <li className="social-icons">
+                <a
+                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <FaLinkedinIn />
+                </a>
+              </li> */}
+              <li className="social-icons">
+                <a
+                  href="https://www.instagram.com/royantsrg/"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiFillInstagram />
+                </a>
+              </li>
+            </ul>
+          </Col>
         </Row>
       </Container>
     </Container>
