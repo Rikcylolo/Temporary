@@ -93,10 +93,10 @@ function NavBar() {
             </Nav.Item>
 
             <Nav.Item>
-              <Nav.Link
-                href="Contact.js"
-                target="_blank"
-                rel="noreferrer"
+            <Nav.Link
+                as={Link}
+                to="/contact"
+                onClick={() => updateExpanded(false)}
               >
                 <ImBlog style={{ marginBottom: "2px" }} /> Contact
               </Nav.Link>
