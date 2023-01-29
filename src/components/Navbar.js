@@ -95,10 +95,10 @@ function NavBar() {
             <Nav.Item>
             <Nav.Link
                 as={Link}
-                to="/contact"
+                to="/history"
                 onClick={() => updateExpanded(false)}
               >
-                <ImBlog style={{ marginBottom: "2px" }} /> Contact
+                <ImBlog style={{ marginBottom: "2px" }} /> History
               </Nav.Link>
             </Nav.Item>
 
