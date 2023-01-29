@@ -6,6 +6,12 @@ import {
   AiFillGithub,
   AiOutlineTwitter,
   AiFillInstagram,
+  AiFillFacebook,
+  AiFillWechat,
+  AiFillIdcard,
+  AiFillMessage,
+  AiFillWeiboCircle,
+  AiFillCompass,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -83,7 +89,7 @@ function Home2() {
                   <AiOutlineTwitter />
                 </a>
               </li>
-              { <li className="social-icons">
+               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/soumyajit4419/"
                   target="_blank"
@@ -92,7 +98,7 @@ function Home2() {
                 >
                   <FaLinkedinIn />
                 </a>
-              </li> }
+              </li> 
               <li className="social-icons">
                 <a
                   href="https://www.instagram.com/royantsrg/"
@@ -104,7 +110,23 @@ function Home2() {
                 </a>
               </li>
             </ul>
+            <p>
+            <br/>ataupun <span className="purple">kontak </span>saya
+            </p>
+            <ul>
+              <li className="social-icons">
+                <a><AiFillMessage/>088888888888</a> 
+              </li>
+              <li className="social-icons">
+                <a><AiFillIdcard/>Medan</a> 
+              </li>
+              <li className="social-icons">
+                <a><AiFillCompass/>roytamvan.com</a> 
+              </li>
+            </ul>
+            
           </Col>
+
         </Row>
       </Container>
     </Container>
