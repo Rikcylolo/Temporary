@@ -9,7 +9,7 @@ import {
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
-function Contact2() {
+function History2() {
   return (
     <Container fluid className="home-about-section" id="aboutt">
       <Container>
@@ -110,4 +110,4 @@ function Contact2() {
     </Container>
   );
 }
-export default Contact2;
+export default History2;

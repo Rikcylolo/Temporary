@@ -2,13 +2,13 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import homeLogo from "../../Assets/home-main.svg";
 import Particle from "../Particle";
-import Contact2 from "./Contact2";
+import Contact2 from "./History2";
 import Type from "./Type";
 
-function Contact() {
+function History() {
   return (
     <section>
-      <Container fluid className="home-section" id="contact">
+      <Container fluid className="home-section" id="history">
         <Particle />
         <Container className="home-content">
           <Row>
@@ -46,4 +46,4 @@ function Contact() {
   );
 }
 
-export default Contact;
+export default History;
