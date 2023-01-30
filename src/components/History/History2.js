@@ -16,38 +16,14 @@ function History2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              IZINKAN SAYA <span className="purple"> MEMPERKENALKAN </span> DIRI
+               <span className="purple"> PENDIDIKAN </span> 
             </h1>
             <p className="home-about-body">
-              Saya jatuh cinta dengan pemrograman dan setidaknya saya telah belajar sesuatu, <br></br> saya pikir ... 🤷‍♂️
+              *SD SANTO YOSEF SIDIKALANG  <br></br> *SMP NEGERI 1 SIDIKALANG
               <br />
-              <br />Saya mahasiswa semester 7 di Universitas Mikrosil dan mempelajari beberapa bahasa pemograman, yaitu 
-              <i>
-                <b className="purple"> C++, Javascript dan Python. </b>
-              </i>
+              *SMA NEGERI 2 SIDIKALANG <br></br> *UNIVERSITAS MIKROSKIL 
               <br />
-              <br />
-              Bidang Minat saya sedang membangun baru &nbsp;
-              <i>
-                <b className="purple">Teknologi dan Produk WEB </b> dan juga
-                bidang yang terkait dengan{" "}
-                <b className="purple">
-                  Deep Learning dan Natural Launguage Processing.
-                </b>
-              </i>
-              <br />
-              <br />
-              Bila memungkinkan, saya juga menerapkan hasrat saya untuk mengembangkan produk dengan <b className="purple">Node.js</b> dan
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library dan Frameworks
-                </b>
-              </i>
-              &nbsp; seperti
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+              
             </p>
           </Col>
           <Col md={4} className="myAvtar">
