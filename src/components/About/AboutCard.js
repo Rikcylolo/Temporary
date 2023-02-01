@@ -28,7 +28,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Hidup ini, adalah taruhan!"{" "}
+            "Hidup ini adalah taruhan!"{" "}
           </p>
           <footer className="blockquote-footer">Roy</footer>
         </blockquote>

@@ -19,9 +19,9 @@ function History2() {
                <span className="purple"> PENDIDIKAN </span> 
             </h1>
             <p className="home-about-body">
-              SD SANTO YOSEF SIDIKALANG  <br></br> SMP NEGERI 1 SIDIKALANG
+              SD Santo Yosef Sidikalang  <br></br> SMP Negeri 1 Sidikalang
               <br />
-              SMA NEGERI 2 SIDIKALANG <br></br> UNIVERSITAS MIKROSKIL 
+              SMA Negeri 2 Sidikalang <br></br> Universitas Mikroskil 
               <br />
               
             </p>
@@ -29,7 +29,7 @@ function History2() {
                <span className="purple"> <br/><br/>ORGANISASI </span> 
             </h1>
             <p className="home-about-body">
-              Anggota Pemuda Pancasia (PP)<br></br> Komunitas Pecinta Kucing Medan
+              Anggota Pemuda Pancasila (PP)<br></br> Komunitas Pecinta Kucing Medan
               <br />
             
               
@@ -38,7 +38,7 @@ function History2() {
                <span className="purple"> <br/><br/>PEKERJAAN </span> 
             </h1>
             <p className="home-about-body">
-              Part time barista Starbucks
+              Part-time barista Starbucks
             </p>
           </Col>
           <Col md={4} className="myAvtar">

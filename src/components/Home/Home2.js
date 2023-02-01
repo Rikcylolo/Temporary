@@ -27,7 +27,7 @@ function Home2() {
             <p className="home-about-body">
               Saya jatuh cinta dengan pemrograman dan setidaknya saya telah belajar sesuatu, <br></br> saya pikir ... 🤷‍♂️
               <br />
-              <br />Saya mahasiswa semester 7 di Universitas Mikrosil dan mempelajari beberapa bahasa pemograman, yaitu 
+              <br />Saya mahasiswa semester 7 di Universitas Mikroskil dan mempelajari beberapa bahasa pemograman, yaitu 
               <i>
                 <b className="purple"> C++, Javascript dan Python. </b>
               </i>
@@ -66,7 +66,7 @@ function Home2() {
           <Col md={12} className="home-about-social">
             <h1>IKUTI SAYA DI</h1>
             <p>
-              Jangan ragu untuk <span className="purple">tehubung </span>dengan saya
+              Jangan ragu untuk <span className="purple">terhubung </span>dengan saya
             </p>
             <ul className="home-about-social-links">
               {/* <li className="social-icons">
