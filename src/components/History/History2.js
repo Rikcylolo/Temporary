@@ -16,7 +16,7 @@ function History2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-               <span className="purple"> PENDIDIKAN </span> 
+               <strong className="purple"> PENDIDIKAN </strong> 
             </h1>
             <p className="home-about-body">
               SD SANTO YOSEF SIDIKALANG  <br></br> SMP NEGERI 1 SIDIKALANG
@@ -26,7 +26,7 @@ function History2() {
               
             </p>
             <h1 style={{ fontSize: "2.6em" }}>
-               <span className="purple"> <br/><br/>ORGANISASI </span> 
+               <strong className="purple"> <br/><br/>ORGANISASI </strong> 
             </h1>
             <p className="home-about-body">
               Anggota Pemuda Pancasia (PP)<br></br> Komunitas Pecinta Kucing Medan
@@ -35,7 +35,7 @@ function History2() {
               
             </p>
             <h1 style={{ fontSize: "2.6em" }}>
-               <span className="purple"> <br/><br/>PEKERJAAN </span> 
+               <strong className="purple"> <br/><br/>PEKERJAAN </strong> 
             </h1>
             <p className="home-about-body">
               Part time barista Starbucks
