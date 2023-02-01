@@ -1,7 +1,9 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import myImg from "../../Assets/avatar.svg";
+import myAbt from "../../Assets/about.png";
 import Tilt from "react-parallax-tilt";
+import homeLogo from "../../Assets/home-main.svg";
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -31,8 +33,6 @@ function History2() {
             <p className="home-about-body">
               Anggota Pemuda Pancasila (PP)<br></br> Komunitas Pecinta Kucing Medan
               <br />
-            
-              
             </p>
             <h1 style={{ fontSize: "2.6em" }}>
                <strong className="purple"> <br/><br/>PEKERJAAN </strong> 
@@ -41,11 +41,16 @@ function History2() {
               Part-time barista Starbucks
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
+          <Col md={4} style={{ paddingTop: 100 }}>
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="boy.jpg" />
-            </Tilt>
-          </Col>
+              <img
+                src={myAbt}
+                alt="History"
+                className="img-fluid"
+                style={{ maxHeight: "450px" }}
+              />
+              </Tilt>
+              </Col>
         </Row>
       </Container>
     </Container>
