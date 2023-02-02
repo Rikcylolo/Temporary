@@ -80,6 +80,7 @@ function Home2() {
                 </a>
               </li> */}
               <li className="social-icons">
+                <Tilt>
                 <a
                   href="https://www.twitter.com/Lync09"
                   target="_blank"
@@ -88,6 +89,7 @@ function Home2() {
                 >
                   <AiOutlineTwitter />
                 </a>
+                </Tilt>
               </li>
                {/* <li className="social-icons">
                 <a
@@ -100,6 +102,7 @@ function Home2() {
                 </a>
               </li>  */}
               <li className="social-icons">
+              <Tilt>
                 <a
                   href="https://www.instagram.com/royantsrg/"
                   target="_blank"
@@ -108,6 +111,7 @@ function Home2() {
                 >
                   <AiFillInstagram />
                 </a>
+                </Tilt>
               </li>
             </ul>
             <p>
