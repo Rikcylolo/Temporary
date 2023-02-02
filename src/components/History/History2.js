@@ -17,28 +17,31 @@ function History2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
+          <h1 style={{ fontSize: "2.6em" }}>
                <strong className="purple"> PENDIDIKAN </strong> 
             </h1>
             <p className="home-about-body">
-              SD Santo Yosef Sidikalang  <br></br> SMP Negeri 1 Sidikalang
+              
+              &bull;&nbsp;&nbsp;SD Santo Yosef Sidikalang<br></br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <em>Siswa&nbsp;&bull;&nbsp;2013</em><br></br><br></br> 
+              &bull;&nbsp;&nbsp;SMP Negeri 1 Sidikalang<br></br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <em>Siswa&nbsp;&bull;&nbsp;2016</em><br></br><br></br> 
+              &bull;&nbsp;&nbsp;SMA Negeri 2 Sidikalang<br></br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <em>Siswa / Matematika dan Ilmu Pengetahuan Alam (MIPA)&nbsp;&bull;&nbsp;2019</em><br></br><br></br>  
+              &bull;&nbsp;&nbsp;Universitas Mikroskil<br></br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <em>Mahasiswa / Teknik Informatika&nbsp;&bull;&nbsp;- sekarang</em><br></br>  
+    
+          
+            </p>
+            <h1 style={{ fontSize: "2.6em" }}>
+               <span className="purple"> PENDIDIKAN </span> 
+            </h1>
+            <p className="home-about-body">
+              *SD SANTO YOSEF SIDIKALANG  <br></br> *SMP NEGERI 1 SIDIKALANG
               <br />
-              SMA Negeri 2 Sidikalang <br></br> Universitas Mikroskil 
+              *SMA NEGERI 2 SIDIKALANG <br></br> *UNIVERSITAS MIKROSKIL 
               <br />
               
-            </p>
-            <h1 style={{ fontSize: "2.6em" }}>
-               <strong className="purple"> <br/><br/>ORGANISASI </strong> 
-            </h1>
-            <p className="home-about-body">
-              Anggota Pemuda Pancasila (PP)<br></br> Komunitas Pecinta Kucing Medan
-              <br />
-            </p>
-            <h1 style={{ fontSize: "2.6em" }}>
-               <strong className="purple"> <br/><br/>PEKERJAAN </strong> 
-            </h1>
-            <p className="home-about-body">
-              Part-time barista Starbucks
             </p>
           </Col>
           <Col md={4} style={{ paddingTop: 100 }}>
